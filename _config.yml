@@ -1,14 +1,14 @@
-title: XP Blog
-SEOTitle: XP的博客 | XP Blog
-header-img: img/bg-0327.jpg
-description: "Every failure is leading towards success."
-url: "http://tjcrt.github.io"          # your host, for absolute URL
+title: AnnaWisdom Blog
+SEOTitle: AnnaWisdom的博客 | AnnaWisdom Blog
+header-img: img/post-bg-coffee.jpg
+description: "Be the change you want to see in the world."
+url: "https://annawisdom.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/bg-2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Just have a little faith!"
+sidebar-avatar: /img/avatar_g.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # Featured Tags
