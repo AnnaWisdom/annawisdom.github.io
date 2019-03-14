@@ -1,6 +1,6 @@
 ---
 layout: post
-author: galaxy
+author: AnnaWisdom
 tags:
      - python
      - code
